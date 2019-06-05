@@ -18,3 +18,5 @@ github_username:  YoungwooJung
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-architect
